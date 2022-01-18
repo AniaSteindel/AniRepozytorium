@@ -1,0 +1,10 @@
+
+
+
+vim hello.sh
+[girls@localhost AniRepozytorium]$
+ls
+
+
+exit
+who
